@@ -12,3 +12,5 @@ Team Members:
 
 
 Project Manager: Saloni Vaishnav (saloniv2)
+
+# [Final Presentation Slides](https://docs.google.com/presentation/d/1E8TTj0SqROILtG4mluQBMhSPqqJ3WM3Jao5Hkz6bnXc/edit?usp=sharing)
